@@ -2,6 +2,9 @@
 __pycache__/
 *.py[cod]
 *$py.class
+Challenge_Starter_Code/
+Canvas_Materials/
+samples.json
 
 # C extensions
 *.so
